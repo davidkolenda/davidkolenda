@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidkolenda
 - 👀 I’m interested in coding, specifically making either productivity apps and games.
-- 🌱 I’m currently learning Swift/Swift UI, Python, JS, and some other things that don't really matter.
+- 🌱 I’m currently learning Python, JS, Love/Lovebrew, and some other things that don't really matter.
 - 📫 Reach me by just dming me, either here (I think), or on twitter @davidkolendabr
 
 <!---
